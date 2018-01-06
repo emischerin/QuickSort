@@ -1,0 +1,7 @@
+C:\Users\Egor\source\repos\QuickSortImplement\QuickSortImplement\bin\Debug\QuickSortImplement.exe.config
+C:\Users\Egor\source\repos\QuickSortImplement\QuickSortImplement\bin\Debug\QuickSortImplement.exe
+C:\Users\Egor\source\repos\QuickSortImplement\QuickSortImplement\bin\Debug\QuickSortImplement.pdb
+C:\Users\Egor\source\repos\QuickSortImplement\QuickSortImplement\obj\Debug\QuickSortImplement.csprojResolveAssemblyReference.cache
+C:\Users\Egor\source\repos\QuickSortImplement\QuickSortImplement\obj\Debug\QuickSortImplement.csproj.CoreCompileInputs.cache
+C:\Users\Egor\source\repos\QuickSortImplement\QuickSortImplement\obj\Debug\QuickSortImplement.exe
+C:\Users\Egor\source\repos\QuickSortImplement\QuickSortImplement\obj\Debug\QuickSortImplement.pdb
